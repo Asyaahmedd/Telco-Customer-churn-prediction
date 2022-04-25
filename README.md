@@ -1,6 +1,6 @@
 # Telecom Customers Churn Prediction
 
-Developing an End to End model to predict customers who are more prone to churn. The project life-cycle included: business understanding, problem understanding, reading related research work, data scoping, data exploration, data visualization, feature engineering, data preprocessing, machine learning modelling and model evaluation.
+Developing an End to End model to predict customers who are more prone to churn. The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California. It indicates which customers have left, stayed, or signed up for their service.
 
 # Project Tasks:
 
