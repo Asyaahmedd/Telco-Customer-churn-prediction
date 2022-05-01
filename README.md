@@ -28,7 +28,8 @@ the data set contains 19 independent variables, which can be classified into 3 g
 
 • PaperlessBilling: Whether the client has paperless billing or not (Yes, No).
 
-• PaymentMethod: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit Card (automatic)).
+• PaymentMethod: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), 
+  Credit Card (automatic)).
 
 • MontlyCharges: The amount charged to the customer monthly (Multiple different numeric values).
 
