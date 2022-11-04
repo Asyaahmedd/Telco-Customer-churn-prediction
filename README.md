@@ -8,7 +8,7 @@ The objective is to obtain a data-driven solution that will allow us to reduce c
 
 # Data set
 The data set used in this project is available in the Kaggle (CC BY-NC-ND) and contains 20 columns (independent variables) that indicate the characteristics of the clients of a fictional telecommunications corporation. The Churn column (response variable) indicates whether the customer departed within the last month or not. The class No includes the clients that did not leave the company last month, while the class Yes contains the clients that decided to terminate their relations with the company. 
-the data set contains 19 independent variables, which can be classified into 3 groups:
+the data set contains 20 independent variables, which can be classified into 3 groups:
 
 (1) Demographic Information
 
